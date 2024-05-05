@@ -19,22 +19,20 @@ I am a passionate Machine Learning Engineer with 4 years of experience in develo
 
 ## Projects
 
-### Text Classification using LSTM
+### Transforming gestures: Hand pose estimation from arbitrary hand positions using EMG
 
-Implemented a text classification model using Long Short-Term Memory (LSTM) networks to classify news articles into categories.
+Implemented a novel dual-branch transformer model and motion sensor-based training approach for finger gesture recognition using EMG, overcoming challenges associated with hand position dependency.
 
-- GitHub Repository: [link](https://github.com/johndoe/text-classification-lstm)
-- Demo: [link, if applicable]
+- GitHub Repository: [link](https://github.com/rufaelfekadu/hpe_final)
 
-### Object Detection with YOLOv4
+### A Comparative Study of Kalman Filters and Neural Networks
 
-Developed an object detection system using the YOLOv4 algorithm to detect and track objects in real-time video streams.
-
+Explored and contrasted the effectiveness of Kalman Filters, including their non-linear adaptations, and Neural Networks for precise robot state estimation
 
 ## Publications
 
-1. "A Survey of Deep Learning Techniques for Natural Language Processing", IEEE Transactions on Neural Networks and Learning Systems, 2022.
-2. "Deep Reinforcement Learning for Autonomous Driving", International Conference on Robotics and Automation, 2023.
+1. "Machine Learning Models Evaluation and Feature Importance Analysis on NPL Dataset", Machine Learning for Development (ML4D) workshop, NeurIPS 2021.
+2. "Improving Remote Sensing Scene Classification via Label-Free Prompt Tuning", ECCV, 2023.
 
 ## Education
 
@@ -43,8 +41,9 @@ Developed an object detection system using the YOLOv4 algorithm to detect and tr
 
 ## Certifications
 
-- Deep Learning Specialization, Coursera, 2020
-- Machine Learning 
+- Machine Learning, Stanford University via Coursera, 2019
+- Deep Learning Specialization, DeepLearning.AI via Coursera, 2020
+- Structuring Machine Learning Projects, DeepLearning.AI, 2020
 
 ## Contact
 
